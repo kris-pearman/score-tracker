@@ -9,24 +9,44 @@ import {default as data} from '../data/Stats.json';
 })
 export class ScoreDisplayComponent implements OnInit {
   scores = SCORES;
-  
+  titles = data;
+  difficulties = data.Stats.SongScores.Song[1];
 
   
   constructor() { }
 
   ngOnInit(): void {
     // console.log(data.Stats.SongScores)
-    this.getScores(data.Stats.SongScores.Song)
+    let listOfDifficulties = this.difficulties.Steps
+    console.log(data.Stats.SongScores.Song)
+    // console.log(listOfDifficulties[['-Difficulty']])
+    // console.log(data.Stats.SongScores.Song['-Difficulty'])
+    // this.getSongList(data.Stats.SongScores.Song)
   }
 
-  getScores(stats: any) {
-        for (var val of stats) {
-          // console.log(val['-Dir'])
-          console.log(val.Steps.HighScoreList)
-          // console.log(val)
-        }
-        
+  getDifficulty(song : any){
+    let hardest = song.Steps['-Difficulty']
+
+    return hardest
   }
+
+
+  getScores(stats: any) {
+    // console.log(stats)    
+    for (var val of stats) {
+          
+        }
+  }
+
+  // getSongList(stats: any): string[] {
+  //   let songList = ['blank']
+  //   for (var val of stats) {
+  //     songList.push(val)
+  //   }
+  //   console.log(songList)
+  //   return ;
+  // }
+
 
 
 }
