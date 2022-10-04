@@ -1,0 +1,8742 @@
+[
+  {
+    "Title": "DOLLY SONG",
+    "Difficulty": "Hard",
+    "SongScore": "99.78",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "276",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "5",
+      "0",
+      "0"
+    ],
+    "SongGroup": "-Choice- Kris"
+  },
+  {
+    "Title": "Din Don Dan",
+    "Difficulty": "Challenge",
+    "SongScore": "99.57",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "400",
+      "10",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "58",
+      "0",
+      "0"
+    ],
+    "SongGroup": "BemaniBeats"
+  },
+  {
+    "Title": "Chariots of Fire",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Choice -Kyle-"
+  },
+  {
+    "Title": "Bandolero Comanchero",
+    "Difficulty": "Challenge",
+    "SongScore": "97.35",
+    "Award": "",
+    "Judgements": [
+      "300",
+      "27",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "5",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Choice -Leicester-"
+  },
+  {
+    "Title": "Captain Schlumpfe",
+    "Difficulty": "Hard",
+    "SongScore": "98.70",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "216",
+      "16",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "15",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Choice -Leicester-"
+  },
+  {
+    "Title": "Fuego (Caliente Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "65.19",
+    "Award": "",
+    "Judgements": [
+      "437",
+      "152",
+      "112",
+      "0",
+      "0",
+      "131",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Choice -Leicester-"
+  },
+  {
+    "Title": "I\u0027m an Albatraoz",
+    "Difficulty": "Hard",
+    "SongScore": "98.51",
+    "Award": "",
+    "Judgements": [
+      "290",
+      "19",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "13",
+      "0",
+      "0"
+    ],
+    "SongGroup": "DDR A 20"
+  },
+  {
+    "Title": "Something Just Like This (Alesso Remix)",
+    "Difficulty": "Hard",
+    "SongScore": "98.50",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "287",
+      "24",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "11",
+      "0",
+      "0"
+    ],
+    "SongGroup": "DDR A 20"
+  },
+  {
+    "Title": "The Light",
+    "Difficulty": "Hard",
+    "SongScore": "98.84",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "318",
+      "15",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "29",
+      "0",
+      "0"
+    ],
+    "SongGroup": "DDR A 20"
+  },
+  {
+    "Title": "The World Ends Now",
+    "Difficulty": "Easy",
+    "SongScore": "99.58",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "306",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "21",
+      "0",
+      "0"
+    ],
+    "SongGroup": "DDR A 20"
+  },
+  {
+    "Title": "The World Ends Now",
+    "Difficulty": "Hard",
+    "SongScore": "38.06",
+    "Award": "",
+    "Judgements": [
+      "369",
+      "53",
+      "10",
+      "2",
+      "6",
+      "185",
+      "0",
+      "0",
+      "5",
+      "0",
+      "12"
+    ],
+    "SongGroup": "DDR A 20"
+  },
+  {
+    "Title": "DAM DARIRAM",
+    "Difficulty": "Challenge",
+    "SongScore": "99.19",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "338",
+      "17",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "65",
+      "0",
+      "0"
+    ],
+    "SongGroup": "DDR Anthology 1"
+  },
+  {
+    "Title": "DO IT ALL NIGHT",
+    "Difficulty": "Challenge",
+    "SongScore": "97.69",
+    "Award": "",
+    "Judgements": [
+      "347",
+      "24",
+      "1",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "8",
+      "0",
+      "0"
+    ],
+    "SongGroup": "DDR Anthology 1"
+  },
+  {
+    "Title": "tearopen",
+    "Difficulty": "Hard",
+    "SongScore": "88.95",
+    "Award": "",
+    "Judgements": [
+      "330",
+      "68",
+      "15",
+      "0",
+      "0",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "DDREI Tournamix 1"
+  },
+  {
+    "Title": "Not Clay Henry",
+    "Difficulty": "Hard",
+    "SongScore": "99.02",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "74",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "4",
+      "0",
+      "0"
+    ],
+    "SongGroup": "DDREI Tournamix 3"
+  },
+  {
+    "Title": "Angle Dance",
+    "Difficulty": "Hard",
+    "SongScore": "96.05",
+    "Award": "",
+    "Judgements": [
+      "456",
+      "69",
+      "7",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "9",
+      "0",
+      "0"
+    ],
+    "SongGroup": "DDRei TournaMix 4"
+  },
+  {
+    "Title": "Barbie Girl",
+    "Difficulty": "Challenge",
+    "SongScore": "99.85",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "374",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "36",
+      "0",
+      "0"
+    ],
+    "SongGroup": "DaSquid\u0027s Easy Quads"
+  },
+  {
+    "Title": "Uncle John From Jamaica",
+    "Difficulty": "Challenge",
+    "SongScore": "99.30",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "411",
+      "15",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "8",
+      "0",
+      "0"
+    ],
+    "SongGroup": "DaSquid\u0027s Easy Quads"
+  },
+  {
+    "Title": "Butterfly",
+    "Difficulty": "Hard",
+    "SongScore": "99.62",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "209",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "Butterfly",
+    "Difficulty": "Challenge",
+    "SongScore": "99.69",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "318",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "4",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "Have You Never Been Mellow",
+    "Difficulty": "Hard",
+    "SongScore": "99.41",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "166",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "Have You Never Been Mellow",
+    "Difficulty": "Challenge",
+    "SongScore": "99.49",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "230",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "KUNG FU FIGHTING",
+    "Difficulty": "Hard",
+    "SongScore": "98.93",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "142",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "LET\u0027S GET DOWN",
+    "Difficulty": "Hard",
+    "SongScore": "99.67",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "179",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "LET\u0027S GET DOWN",
+    "Difficulty": "Challenge",
+    "SongScore": "99.40",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "260",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "Little Bitch",
+    "Difficulty": "Hard",
+    "SongScore": "97.37",
+    "Award": "OneW3",
+    "Judgements": [
+      "181",
+      "24",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "Little Bitch",
+    "Difficulty": "Challenge",
+    "SongScore": "99.13",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "289",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "MONEY",
+    "Difficulty": "Hard",
+    "SongScore": "99.51",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "201",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "My Fire (UKS Remix)",
+    "Difficulty": "Hard",
+    "SongScore": "99.29",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "164",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "My Fire (UKS Remix)",
+    "Difficulty": "Challenge",
+    "SongScore": "99.21",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "319",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "PARANOiA",
+    "Difficulty": "Hard",
+    "SongScore": "96.73",
+    "Award": "",
+    "Judgements": [
+      "281",
+      "35",
+      "2",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "STRICTLY BUSINESS",
+    "Difficulty": "Hard",
+    "SongScore": "99.16",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "184",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "That\u0027s The Way (I Like It)",
+    "Difficulty": "Hard",
+    "SongScore": "99.18",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "142",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 1st Mix"
+  },
+  {
+    "Title": "AM-3P",
+    "Difficulty": "Hard",
+    "SongScore": "99.01",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "232",
+      "12",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "BAD GIRLS",
+    "Difficulty": "Hard",
+    "SongScore": "99.79",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "192",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "BRILLIANT 2U(Orchestra Groove)",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "226",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "BRILLIANT 2U(Orchestra Groove)",
+    "Difficulty": "Challenge",
+    "SongScore": "99.87",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "307",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "BRILLIANT 2U",
+    "Difficulty": "Hard",
+    "SongScore": "99.28",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "217",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "BRILLIANT 2U",
+    "Difficulty": "Challenge",
+    "SongScore": "99.62",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "259",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "Boom Boom Dollar (Red Monster Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "99.42",
+    "Award": "OneW3",
+    "Judgements": [
+      "205",
+      "3",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "Boys",
+    "Difficulty": "Hard",
+    "SongScore": "99.71",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "206",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "Boys",
+    "Difficulty": "Challenge",
+    "SongScore": "98.93",
+    "Award": "OneW3",
+    "Judgements": [
+      "303",
+      "14",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "DUB-I-DUB",
+    "Difficulty": "Hard",
+    "SongScore": "97.14",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "184",
+      "24",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "DUB-I-DUB",
+    "Difficulty": "Challenge",
+    "SongScore": "98.31",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "250",
+      "23",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "EL RITMO TROPICAL",
+    "Difficulty": "Hard",
+    "SongScore": "99.02",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "239",
+      "6",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "GET UP\u0027N MOVE",
+    "Difficulty": "Hard",
+    "SongScore": "98.35",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "235",
+      "21",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "HERO",
+    "Difficulty": "Hard",
+    "SongScore": "98.56",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "168",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "I Believe In Miracles (The Lisa Marie Experience Radio Edit)",
+    "Difficulty": "Hard",
+    "SongScore": "99.75",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "243",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "IF YOU WERE HERE",
+    "Difficulty": "Hard",
+    "SongScore": "99.71",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "207",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "LOVE",
+    "Difficulty": "Hard",
+    "SongScore": "99.75",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "160",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "LOVE",
+    "Difficulty": "Challenge",
+    "SongScore": "99.81",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "318",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "MAKE A JAM!",
+    "Difficulty": "Hard",
+    "SongScore": "99.75",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "237",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "MAKE IT BETTER (So-REAL Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "98.17",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "189",
+      "19",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "PARANOiA KCET ~clean mix~",
+    "Difficulty": "Hard",
+    "SongScore": "99.20",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "337",
+      "14",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "PARANOiA MAX~DIRTY MIX~ (in roulette)",
+    "Difficulty": "Hard",
+    "SongScore": "98.43",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "294",
+      "25",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "PARANOiA MAX~DIRTY MIX~",
+    "Difficulty": "Hard",
+    "SongScore": "97.52",
+    "Award": "",
+    "Judgements": [
+      "308",
+      "31",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "PUT YOUR FAITH IN ME (Jazzy Groove)",
+    "Difficulty": "Hard",
+    "SongScore": "99.13",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "199",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "PUT YOUR FAITH IN ME",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "203",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "SP-TRIP MACHINE~JUNGLE MIX~",
+    "Difficulty": "Hard",
+    "SongScore": "99.51",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "239",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "Smoke",
+    "Difficulty": "Hard",
+    "SongScore": "99.90",
+    "Award": "OneW2",
+    "Judgements": [
+      "218",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "TUBTHUMPING",
+    "Difficulty": "Hard",
+    "SongScore": "98.43",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "141",
+      "12",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "stomp to my beat",
+    "Difficulty": "Hard",
+    "SongScore": "99.11",
+    "Award": "OneW3",
+    "Judgements": [
+      "239",
+      "8",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "stomp to my beat",
+    "Difficulty": "Challenge",
+    "SongScore": "99.18",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "284",
+      "12",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 2nd Mix"
+  },
+  {
+    "Title": "AFTER THE GAME OF LOVE",
+    "Difficulty": "Hard",
+    "SongScore": "99.61",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "203",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix Plus"
+  },
+  {
+    "Title": "BUMBLE BEE",
+    "Difficulty": "Hard",
+    "SongScore": "99.92",
+    "Award": "OneW2",
+    "Judgements": [
+      "256",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix Plus"
+  },
+  {
+    "Title": "CUTIE CHASER",
+    "Difficulty": "Hard",
+    "SongScore": "99.45",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "249",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix Plus"
+  },
+  {
+    "Title": "DROP THE BOMB",
+    "Difficulty": "Hard",
+    "SongScore": "99.34",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "294",
+      "10",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix Plus"
+  },
+  {
+    "Title": "GIMME GIMME GIMME",
+    "Difficulty": "Hard",
+    "SongScore": "99.56",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "268",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix Plus"
+  },
+  {
+    "Title": "HERO (KCP DISCOTIQUE MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.22",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "224",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix Plus"
+  },
+  {
+    "Title": "La Senorita Virtual",
+    "Difficulty": "Hard",
+    "SongScore": "99.05",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "342",
+      "17",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix Plus"
+  },
+  {
+    "Title": "20,NOVEMBER (D.D.R. version)",
+    "Difficulty": "Hard",
+    "SongScore": "99.20",
+    "Award": "OneW3",
+    "Judgements": [
+      "170",
+      "4",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "AFRONOVA",
+    "Difficulty": "Hard",
+    "SongScore": "98.32",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "339",
+      "31",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "AROMDAON 21C",
+    "Difficulty": "Hard",
+    "SongScore": "99.28",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "189",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "BA KKWO",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "255",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "BOOM BOOM DOLLAR (K.O.G G3 MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.73",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "294",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "BU DAM",
+    "Difficulty": "Hard",
+    "SongScore": "99.63",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "270",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "BYUL",
+    "Difficulty": "Hard",
+    "SongScore": "99.18",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "188",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "CAPTAIN JACK (GRANDALE REMIX)",
+    "Difficulty": "Hard",
+    "SongScore": "98.66",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "342",
+      "15",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "DAM DARIRAM",
+    "Difficulty": "Hard",
+    "SongScore": "98.45",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "275",
+      "23",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "DEAD END",
+    "Difficulty": "Hard",
+    "SongScore": "99.07",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "391",
+      "19",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "DO IT ALL NIGHT",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "278",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "DO IT ALL NIGHT",
+    "Difficulty": "Challenge",
+    "SongScore": "99.49",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "311",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "DYNAMITE RAVE",
+    "Difficulty": "Hard",
+    "SongScore": "99.54",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "389",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "END OF THE CENTURY",
+    "Difficulty": "Hard",
+    "SongScore": "99.71",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "344",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "FACE",
+    "Difficulty": "Hard",
+    "SongScore": "97.61",
+    "Award": "",
+    "Judgements": [
+      "238",
+      "13",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "FLASHDANCE (WHAT A FEELING)",
+    "Difficulty": "Hard",
+    "SongScore": "98.66",
+    "Award": "OneW3",
+    "Judgements": [
+      "268",
+      "16",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "FOLLOW THE SUN (90 IN THE SHADE MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.66",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "293",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "FOLLOW THE SUN (90 IN THE SHADE MIX)",
+    "Difficulty": "Challenge",
+    "SongScore": "97.50",
+    "Award": "",
+    "Judgements": [
+      "340",
+      "26",
+      "1",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "GAGGAI",
+    "Difficulty": "Hard",
+    "SongScore": "99.57",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "277",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "GAMYEONUI SIGAN",
+    "Difficulty": "Hard",
+    "SongScore": "95.70",
+    "Award": "",
+    "Judgements": [
+      "226",
+      "19",
+      "0",
+      "0",
+      "0",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "GET UP (BEFORE THE NIGHT IS OVER)",
+    "Difficulty": "Hard",
+    "SongScore": "99.45",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "249",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "GET UP AND DANCE",
+    "Difficulty": "Hard",
+    "SongScore": "98.70",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "203",
+      "14",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "GIMME GIMME",
+    "Difficulty": "Hard",
+    "SongScore": "98.08",
+    "Award": "",
+    "Judgements": [
+      "281",
+      "11",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "GRADIUSIC CYBER ~AMD G5 MIX~",
+    "Difficulty": "Hard",
+    "SongScore": "98.16",
+    "Award": "OneW3",
+    "Judgements": [
+      "338",
+      "31",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "GYOUNG GO",
+    "Difficulty": "Hard",
+    "SongScore": "99.50",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "237",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "HOGISIM",
+    "Difficulty": "Hard",
+    "SongScore": "99.31",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "254",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "HOLIDAY",
+    "Difficulty": "Hard",
+    "SongScore": "99.56",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "225",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "IF YOU CAN SAY GOODBYE",
+    "Difficulty": "Hard",
+    "SongScore": "98.24",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "228",
+      "22",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "IN THE NAVY \u002799 (XXL Disaster Remix)",
+    "Difficulty": "Hard",
+    "SongScore": "98.24",
+    "Award": "OneW3",
+    "Judgements": [
+      "282",
+      "24",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "IT ONLY TAKES A MINUTE (Extended Remix)",
+    "Difficulty": "Hard",
+    "SongScore": "99.26",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "211",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "Jam Jam Reggae",
+    "Difficulty": "Hard",
+    "SongScore": "97.30",
+    "Award": "",
+    "Judgements": [
+      "234",
+      "17",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "KEEP ON MOVIN\u0027",
+    "Difficulty": "Hard",
+    "SongScore": "99.67",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "180",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "LET THEM MOVE",
+    "Difficulty": "Hard",
+    "SongScore": "99.09",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "189",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "LOVE THIS FEELIN\u0027",
+    "Difficulty": "Hard",
+    "SongScore": "96.44",
+    "Award": "",
+    "Judgements": [
+      "219",
+      "20",
+      "2",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "LUV TO ME (AMD MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "97.05",
+    "Award": "",
+    "Judgements": [
+      "325",
+      "23",
+      "4",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "La Senorita",
+    "Difficulty": "Hard",
+    "SongScore": "98.57",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "277",
+      "15",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "MR. WONDERFUL",
+    "Difficulty": "Hard",
+    "SongScore": "99.91",
+    "Award": "OneW2",
+    "Judgements": [
+      "242",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "OH NICK PLEASE NOT SO QUICK",
+    "Difficulty": "Hard",
+    "SongScore": "99.20",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "193",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "OPERATOR",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "272",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "PARANOiA Rebirth",
+    "Difficulty": "Hard",
+    "SongScore": "98.70",
+    "Award": "OneW3",
+    "Judgements": [
+      "407",
+      "25",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "ROCK BEAT",
+    "Difficulty": "Hard",
+    "SongScore": "97.76",
+    "Award": "",
+    "Judgements": [
+      "262",
+      "14",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "ROSE",
+    "Difficulty": "Hard",
+    "SongScore": "99.00",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "228",
+      "12",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "SHOCK",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "232",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "SO MANY MEN",
+    "Difficulty": "Hard",
+    "SongScore": "98.44",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "182",
+      "9",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "SUNG SUK",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "230",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "Silent Hill",
+    "Difficulty": "Hard",
+    "SongScore": "99.16",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "254",
+      "11",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "Starian",
+    "Difficulty": "Hard",
+    "SongScore": "99.46",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "289",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "TELL ME TELL ME",
+    "Difficulty": "Hard",
+    "SongScore": "99.24",
+    "Award": "OneW3",
+    "Judgements": [
+      "256",
+      "7",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "THE RACE",
+    "Difficulty": "Hard",
+    "SongScore": "99.72",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "290",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "TRIP MACHINE~luv mix~",
+    "Difficulty": "Hard",
+    "SongScore": "99.72",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "289",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "TURN ME ON (HEAVENLY MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.53",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "292",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "UPSIDE DOWN",
+    "Difficulty": "Hard",
+    "SongScore": "99.84",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "257",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "VOL.4",
+    "Difficulty": "Hard",
+    "SongScore": "99.22",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "252",
+      "4",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "VOL.4",
+    "Difficulty": "Challenge",
+    "SongScore": "98.26",
+    "Award": "",
+    "Judgements": [
+      "269",
+      "7",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "WA",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "222",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "WONDERLAND (UKS MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.62",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "262",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "XANADU",
+    "Difficulty": "Hard",
+    "SongScore": "99.49",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "154",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "XANADU",
+    "Difficulty": "Challenge",
+    "SongScore": "98.60",
+    "Award": "",
+    "Judgements": [
+      "269",
+      "2",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "butterfly (UPSWING MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.44",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "313",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "butterfly (UPSWING MIX)",
+    "Difficulty": "Challenge",
+    "SongScore": "99.84",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "385",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "gentle stress (AMD SEXUAL MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.38",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "284",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "think ya better D",
+    "Difficulty": "Hard",
+    "SongScore": "99.32",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "229",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 3rd Mix"
+  },
+  {
+    "Title": "CAFE",
+    "Difficulty": "Hard",
+    "SongScore": "99.75",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "242",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix Plus"
+  },
+  {
+    "Title": "CAT\u0027S EYE (Ventura Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "98.75",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "315",
+      "21",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix Plus"
+  },
+  {
+    "Title": "CONGA FEELING",
+    "Difficulty": "Hard",
+    "SongScore": "97.62",
+    "Award": "",
+    "Judgements": [
+      "300",
+      "9",
+      "0",
+      "0",
+      "1",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix Plus"
+  },
+  {
+    "Title": "DO ME (H.I.G.E.O. MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.24",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "333",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix Plus"
+  },
+  {
+    "Title": "Lupin the 3rd \u002778",
+    "Difficulty": "Hard",
+    "SongScore": "98.65",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "368",
+      "17",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix Plus"
+  },
+  {
+    "Title": "NA-NA",
+    "Difficulty": "Hard",
+    "SongScore": "99.59",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "288",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix Plus"
+  },
+  {
+    "Title": "PETIT LOVE",
+    "Difficulty": "Hard",
+    "SongScore": "99.72",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "356",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix Plus"
+  },
+  {
+    "Title": "RHYTHM AND POLICE (K.O.G G3 Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "99.38",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "407",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix Plus"
+  },
+  {
+    "Title": "SKY HIGH",
+    "Difficulty": "Hard",
+    "SongScore": "99.93",
+    "Award": "OneW2",
+    "Judgements": [
+      "317",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix Plus"
+  },
+  {
+    "Title": "SYNCHRONIZED LOVE (Red Monster Hyper Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "99.54",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "388",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix Plus"
+  },
+  {
+    "Title": "THEME FROM ENTER THE DRAGON (notorious mix)",
+    "Difficulty": "Hard",
+    "SongScore": "98.13",
+    "Award": "",
+    "Judgements": [
+      "315",
+      "14",
+      "2",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix Plus"
+  },
+  {
+    "Title": "WONDA (SPEED K MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.84",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "376",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix Plus"
+  },
+  {
+    "Title": ".59",
+    "Difficulty": "Hard",
+    "SongScore": "99.41",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "267",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "1,2,3,4, 007",
+    "Difficulty": "Hard",
+    "SongScore": "99.62",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "208",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "B4U",
+    "Difficulty": "Hard",
+    "SongScore": "99.69",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "320",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "BABY BABY GIMME YOUR LOVE",
+    "Difficulty": "Hard",
+    "SongScore": "99.50",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "159",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "BOYS (EURO MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "98.29",
+    "Award": "",
+    "Judgements": [
+      "316",
+      "11",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "BURNIN\u0027 THE FLOOR",
+    "Difficulty": "Hard",
+    "SongScore": "99.48",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "301",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "CAN\u0027T STOP FALLIN\u0027 IN LOVE",
+    "Difficulty": "Hard",
+    "SongScore": "99.14",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "314",
+      "14",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "CELEBRATE NITE",
+    "Difficulty": "Hard",
+    "SongScore": "99.56",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "271",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "DAM DARIRAM (KCP MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.89",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "380",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "DREAM A DREAM",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "251",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "DROP OUT",
+    "Difficulty": "Hard",
+    "SongScore": "95.76",
+    "Award": "",
+    "Judgements": [
+      "373",
+      "15",
+      "6",
+      "0",
+      "0",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "Don\u0027t Stop!~AMD 2nd MIX~",
+    "Difficulty": "Hard",
+    "SongScore": "99.90",
+    "Award": "OneW2",
+    "Judgements": [
+      "213",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "EAT YOU UP",
+    "Difficulty": "Hard",
+    "SongScore": "99.75",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "237",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "FURUHATA\u0027S THEME",
+    "Difficulty": "Hard",
+    "SongScore": "97.76",
+    "Award": "",
+    "Judgements": [
+      "398",
+      "12",
+      "0",
+      "0",
+      "0",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "GOTCHA (The Theme From STARSKY \u0026 HUTCH)",
+    "Difficulty": "Hard",
+    "SongScore": "98.17",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "189",
+      "19",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "Get me in your sight (AMD CANCUN MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.36",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "275",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "HAVE YOU NEVER BEEN MELLOW (MM GROOVIN MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.02",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "292",
+      "15",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "HERO (HAPPY GRANDALE MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.52",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "332",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "HIGHER",
+    "Difficulty": "Hard",
+    "SongScore": "98.86",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "232",
+      "14",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "HYPNOTIC CRISIS",
+    "Difficulty": "Hard",
+    "SongScore": "99.71",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "280",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "HYSTERIA",
+    "Difficulty": "Hard",
+    "SongScore": "98.01",
+    "Award": "",
+    "Judgements": [
+      "293",
+      "8",
+      "0",
+      "0",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "Holic",
+    "Difficulty": "Hard",
+    "SongScore": "99.36",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "303",
+      "10",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "IF YOU WERE HERE (B4 ZA BEAT MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.25",
+    "Award": "OneW3",
+    "Judgements": [
+      "338",
+      "10",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "IN THE HEAT OF THE NIGHT",
+    "Difficulty": "Hard",
+    "SongScore": "99.92",
+    "Award": "OneW2",
+    "Judgements": [
+      "263",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "KICK THE CAN",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "313",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "LEADING CYBER",
+    "Difficulty": "Hard",
+    "SongScore": "98.66",
+    "Award": "",
+    "Judgements": [
+      "351",
+      "7",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "LOVE AGAIN TONIGHT~For Melissa MIX~",
+    "Difficulty": "Hard",
+    "SongScore": "99.41",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "297",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "Let\u0027s talk it over",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "193",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "MUSIC",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "268",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "MY SUMMER LOVE",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "260",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "Make Your Move",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "333",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "NEVER GONNA MAKE (FACTORY DANCE TEAM MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "244",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "NIGHT IN MOTION",
+    "Difficulty": "Hard",
+    "SongScore": "99.02",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "253",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "ONE TWO (LITTLE BITCH)",
+    "Difficulty": "Hard",
+    "SongScore": "99.31",
+    "Award": "OneW3",
+    "Judgements": [
+      "255",
+      "6",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "ONLY YOU",
+    "Difficulty": "Hard",
+    "SongScore": "99.13",
+    "Award": "OneW3",
+    "Judgements": [
+      "200",
+      "6",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "ORION.78(AMeuro-MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "98.62",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "298",
+      "22",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "PARANOIA EVOLUTION",
+    "Difficulty": "Hard",
+    "SongScore": "99.73",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "370",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "PINK DINOSAUR",
+    "Difficulty": "Hard",
+    "SongScore": "99.56",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "182",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "SAINT GOES MARCHING (REMIX)",
+    "Difficulty": "Hard",
+    "SongScore": "98.73",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "295",
+      "20",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "SEXY PLANET",
+    "Difficulty": "Hard",
+    "SongScore": "99.31",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "253",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "SHAKE YOUR BOOTY",
+    "Difficulty": "Hard",
+    "SongScore": "97.15",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "169",
+      "28",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "SHOOTING STAR",
+    "Difficulty": "Hard",
+    "SongScore": "99.30",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "277",
+      "10",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "SUPER STAR",
+    "Difficulty": "Hard",
+    "SongScore": "99.16",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "277",
+      "12",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "THE 7 JUMP",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "182",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "TRIP MACHINE CLIMAX",
+    "Difficulty": "Hard",
+    "SongScore": "99.59",
+    "Award": "OneW3",
+    "Judgements": [
+      "337",
+      "4",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "WALKIE TALKIE",
+    "Difficulty": "Hard",
+    "SongScore": "99.47",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "260",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "WILD RUSH",
+    "Difficulty": "Hard",
+    "SongScore": "98.21",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "225",
+      "22",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "Young Forever",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "254",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "era (nostalmix)",
+    "Difficulty": "Hard",
+    "SongScore": "99.49",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "347",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "never let you down",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "266",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 4th Mix"
+  },
+  {
+    "Title": "17SAI",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "266",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "ABSOLUTE",
+    "Difficulty": "Hard",
+    "SongScore": "99.74",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "307",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "AFRONOVA PRIMEVAL",
+    "Difficulty": "Hard",
+    "SongScore": "98.67",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "395",
+      "28",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "AGAINST ALL ODDS (Definitive MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.22",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "298",
+      "12",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "Abyss",
+    "Difficulty": "Hard",
+    "SongScore": "99.61",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "303",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "B4U glorious style",
+    "Difficulty": "Hard",
+    "SongScore": "99.22",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "715",
+      "29",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "BE TOGETHER",
+    "Difficulty": "Hard",
+    "SongScore": "99.31",
+    "Award": "OneW3",
+    "Judgements": [
+      "227",
+      "5",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "BROKEN MY HEART",
+    "Difficulty": "Hard",
+    "SongScore": "99.27",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "347",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "CAN\u0027T STOP FALLIN\u0027 IN LOVE ~SPEED MIX~",
+    "Difficulty": "Hard",
+    "SongScore": "98.96",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "420",
+      "23",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "DANCING ALL ALONE",
+    "Difficulty": "Hard",
+    "SongScore": "97.85",
+    "Award": "",
+    "Judgements": [
+      "207",
+      "6",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "DIVE",
+    "Difficulty": "Hard",
+    "SongScore": "99.26",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "341",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "DXY!",
+    "Difficulty": "Hard",
+    "SongScore": "98.59",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "330",
+      "25",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "DYNAMITE RAVE(Long ver.)",
+    "Difficulty": "Hard",
+    "SongScore": "98.35",
+    "Award": "",
+    "Judgements": [
+      "608",
+      "33",
+      "1",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "ECSTASY",
+    "Difficulty": "Hard",
+    "SongScore": "99.13",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "264",
+      "12",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "Electro Tuned ( the SubS Mix )",
+    "Difficulty": "Hard",
+    "SongScore": "99.02",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "332",
+      "17",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "HOT LIMIT",
+    "Difficulty": "Hard",
+    "SongScore": "99.26",
+    "Award": "OneW3",
+    "Judgements": [
+      "708",
+      "24",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "Healing Vision",
+    "Difficulty": "Hard",
+    "SongScore": "99.15",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "338",
+      "15",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "I Was The One",
+    "Difficulty": "Hard",
+    "SongScore": "98.76",
+    "Award": "OneW3",
+    "Judgements": [
+      "275",
+      "15",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "INSERTiON",
+    "Difficulty": "Hard",
+    "SongScore": "96.84",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "329",
+      "38",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "MATSURI JAPAN",
+    "Difficulty": "Hard",
+    "SongScore": "97.98",
+    "Award": "",
+    "Judgements": [
+      "420",
+      "25",
+      "1",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "MOONLIGHT SHADOW (New Vocal Version)",
+    "Difficulty": "Hard",
+    "SongScore": "99.62",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "264",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "MOVIN ON (Extended Moon Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "99.27",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "293",
+      "11",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "MY GENERATION (Fat Beat Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "99.60",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "248",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "Mr.T. (take me higher)",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "310",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "NEVER ENDING STORY (Power Club Vocal Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "99.60",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "298",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "NO LIMIT(RM Remix)",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "412",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "ODORU PONPOKOLIN",
+    "Difficulty": "Hard",
+    "SongScore": "99.56",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "268",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "OOPS!...I DID IT AGAIN (Fired Up MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "98.62",
+    "Award": "OneW3",
+    "Judgements": [
+      "532",
+      "36",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "PARANOiA ETERNAL",
+    "Difficulty": "Challenge",
+    "SongScore": "99.09",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "336",
+      "16",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "RIGHT NOW",
+    "Difficulty": "Hard",
+    "SongScore": "99.78",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "280",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "ROMANCE NO KAMISAMA",
+    "Difficulty": "Hard",
+    "SongScore": "96.43",
+    "Award": "",
+    "Judgements": [
+      "309",
+      "9",
+      "5",
+      "0",
+      "0",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "Radical Faith",
+    "Difficulty": "Hard",
+    "SongScore": "99.50",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "351",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "Remember You",
+    "Difficulty": "Hard",
+    "SongScore": "97.95",
+    "Award": "OneW3",
+    "Judgements": [
+      "178",
+      "17",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "SANA MOLLETE NE ENTE",
+    "Difficulty": "Hard",
+    "SongScore": "99.65",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "289",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "STILL IN MY HEART",
+    "Difficulty": "Hard",
+    "SongScore": "98.34",
+    "Award": "",
+    "Judgements": [
+      "282",
+      "7",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "SWING IT",
+    "Difficulty": "Hard",
+    "SongScore": "99.27",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "212",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "TEST MY BEST",
+    "Difficulty": "Hard",
+    "SongScore": "99.79",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "289",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "THE CUBE",
+    "Difficulty": "Hard",
+    "SongScore": "99.21",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "271",
+      "11",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "THE TWIST (Double Pump MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.39",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "323",
+      "10",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "TRIBAL DANCE (ALMIGHTY MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "98.82",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "325",
+      "11",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 5th Mix"
+  },
+  {
+    "Title": "COW GIRL",
+    "Difficulty": "Hard",
+    "SongScore": "99.73",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "275",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "27",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "DIVE(more deep \u0026 deeper style)",
+    "Difficulty": "Hard",
+    "SongScore": "99.68",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "317",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "DO YOU REMEMBER ME",
+    "Difficulty": "Hard",
+    "SongScore": "99.56",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "350",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "9",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "Do It Right",
+    "Difficulty": "Hard",
+    "SongScore": "99.43",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "277",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "FOLLOW ME",
+    "Difficulty": "Hard",
+    "SongScore": "99.50",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "292",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "20",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "FRECKLES (KCP Re-Edit)",
+    "Difficulty": "Hard",
+    "SongScore": "99.81",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "311",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "12",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "Firefly",
+    "Difficulty": "Hard",
+    "SongScore": "99.58",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "294",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "39",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "GHOSTS (VINCENT DE MOOR REMIX)",
+    "Difficulty": "Hard",
+    "SongScore": "96.68",
+    "Award": "",
+    "Judgements": [
+      "248",
+      "28",
+      "2",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "29",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "Groove 2001",
+    "Difficulty": "Hard",
+    "SongScore": "99.53",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "250",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "Groove",
+    "Difficulty": "Hard",
+    "SongScore": "99.69",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "260",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "HIGHS OFF U (Scorccio XY Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "99.62",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "310",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "4",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "I\u0027M IN THE MOOD FOR DANCING",
+    "Difficulty": "Hard",
+    "SongScore": "99.60",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "289",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "12",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "LET\u0027S GROOVE",
+    "Difficulty": "Hard",
+    "SongScore": "99.72",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "204",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "12",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "LOVIN\u0027 YOU (ROB SEARLE CLUB MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "98.04",
+    "Award": "OneW3",
+    "Judgements": [
+      "258",
+      "25",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "2",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "Let the beat hit em!(CLASSIC R\u0026B STYLE)",
+    "Difficulty": "Hard",
+    "SongScore": "99.89",
+    "Award": "OneW2",
+    "Judgements": [
+      "191",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "Look To The Sky",
+    "Difficulty": "Hard",
+    "SongScore": "99.86",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "285",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "MIRACLE",
+    "Difficulty": "Hard",
+    "SongScore": "96.97",
+    "Award": "",
+    "Judgements": [
+      "196",
+      "14",
+      "1",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "13",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "MY SWEET DARLIN\u0027",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "272",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "25",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "Midnite Blaze",
+    "Difficulty": "Hard",
+    "SongScore": "99.81",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "330",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "NORI NORI NORI",
+    "Difficulty": "Hard",
+    "SongScore": "98.14",
+    "Award": "",
+    "Judgements": [
+      "209",
+      "5",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "22",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "ON THE JAZZ",
+    "Difficulty": "Hard",
+    "SongScore": "99.09",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "316",
+      "15",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "ORDINARY WORLD",
+    "Difficulty": "Hard",
+    "SongScore": "98.25",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "252",
+      "21",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "34",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "SOMEWHERE OVER THE RAINBOW",
+    "Difficulty": "Hard",
+    "SongScore": "99.15",
+    "Award": "OneW3",
+    "Judgements": [
+      "225",
+      "7",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "5",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "Share My Love",
+    "Difficulty": "Hard",
+    "SongScore": "98.50",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "211",
+      "17",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "TELEPHONE OPERATOR (Club MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.01",
+    "Award": "OneW3",
+    "Judgements": [
+      "284",
+      "12",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "7",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "The Centre Of The Heart (STONEBRIDGE CLUB MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.92",
+    "Award": "OneW2",
+    "Judgements": [
+      "252",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "2",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "WWW.BLONDE GIRL (MOMO MIX)",
+    "Difficulty": "Beginner",
+    "SongScore": "99.77",
+    "Award": "OneW2",
+    "Judgements": [
+      "86",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "WWW.BLONDE GIRL (MOMO MIX)",
+    "Difficulty": "Easy",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "89",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "WWW.BLONDE GIRL (MOMO MIX)",
+    "Difficulty": "Medium",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "148",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "8",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "WWW.BLONDE GIRL (MOMO MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.67",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "234",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "10",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "YOZORA NO MUKO",
+    "Difficulty": "Hard",
+    "SongScore": "99.72",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "268",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "21",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 6th Mix Max"
+  },
+  {
+    "Title": "AM-3P (AM EAST mix)",
+    "Difficulty": "Challenge",
+    "SongScore": "99.31",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "279",
+      "10",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "4",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 7th Mix Max 2"
+  },
+  {
+    "Title": "FANTASY",
+    "Difficulty": "Hard",
+    "SongScore": "99.47",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "212",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "11",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 7th Mix Max 2"
+  },
+  {
+    "Title": "MAXIMUM OVERDRIVE (KC Club Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "99.47",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "244",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "16",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 7th Mix Max 2"
+  },
+  {
+    "Title": "MORE THAN I NEEDED TO KNOW",
+    "Difficulty": "Hard",
+    "SongScore": "98.93",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "214",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "16",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 7th Mix Max 2"
+  },
+  {
+    "Title": "NOTHING GONNA STOP (Dance Mania Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "262",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "37",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 7th Mix Max 2"
+  },
+  {
+    "Title": "Silent Hill (3rd christmas mix)",
+    "Difficulty": "Challenge",
+    "SongScore": "99.71",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "228",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "51",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 7th Mix Max 2"
+  },
+  {
+    "Title": "THE WHISTLE SONG (Blow My Whistle Baby)",
+    "Difficulty": "Hard",
+    "SongScore": "99.80",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "305",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "2",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 7th Mix Max 2"
+  },
+  {
+    "Title": "jane jana",
+    "Difficulty": "Hard",
+    "SongScore": "99.53",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "296",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution 8th Mix Extreme"
+  },
+  {
+    "Title": "Silence (Airscape Remix)",
+    "Difficulty": "Hard",
+    "SongScore": "99.66",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "271",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "22",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Extreme 2 US PS2"
+  },
+  {
+    "Title": "Simply Being Loved \u0027Somnambulist\u0027",
+    "Difficulty": "Hard",
+    "SongScore": "99.33",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "259",
+      "11",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "62",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Extreme US PS2"
+  },
+  {
+    "Title": "BABY BABY GIMME YOUR LOVE 2002",
+    "Difficulty": "Hard",
+    "SongScore": "99.53",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "247",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "44",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Festival"
+  },
+  {
+    "Title": "INSERTiON (Machine Gun Kelly Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "99.24",
+    "Award": "OneW3",
+    "Judgements": [
+      "236",
+      "7",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "22",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Festival"
+  },
+  {
+    "Title": "MAD BLAST",
+    "Difficulty": "Hard",
+    "SongScore": "98.62",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "411",
+      "32",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "23",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Festival"
+  },
+  {
+    "Title": "Heaven",
+    "Difficulty": "Hard",
+    "SongScore": "98.96",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "244",
+      "16",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "49",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Max 2 US PS2"
+  },
+  {
+    "Title": "Dark Black Forest (short trip)",
+    "Difficulty": "Hard",
+    "SongScore": "99.77",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "211",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "50",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Max US PS2"
+  },
+  {
+    "Title": "I Like To Move It",
+    "Difficulty": "Hard",
+    "SongScore": "98.82",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "199",
+      "15",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "41",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Max US PS2"
+  },
+  {
+    "Title": "OVERBLAST!!",
+    "Difficulty": "Hard",
+    "SongScore": "99.46",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "206",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "14",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Max US PS2"
+  },
+  {
+    "Title": "Sandstorm",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "216",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "36",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Max US PS2"
+  },
+  {
+    "Title": "Take It To The Morning Light (Extended Vocal)",
+    "Difficulty": "Hard",
+    "SongScore": "99.49",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "208",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "23",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Max US PS2"
+  },
+  {
+    "Title": "You Leave Me Alone",
+    "Difficulty": "Hard",
+    "SongScore": "99.69",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "213",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "41",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Max US PS2"
+  },
+  {
+    "Title": "DREAM A DREAM (MIAMI BOOTY MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.93",
+    "Award": "OneW2",
+    "Judgements": [
+      "307",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo 2000"
+  },
+  {
+    "Title": "DRILL INSTRUCTOR (C-Jah Happy Mix)",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "229",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo 2000"
+  },
+  {
+    "Title": "HIGH ENERGY (John \u002700\u0027 Fleming Remix)",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "198",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo 2000"
+  },
+  {
+    "Title": "I DON\u0027T WANT TO MISS A THING (PLANET LUTION MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "277",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo 2000"
+  },
+  {
+    "Title": "I\u0027M ALIVE",
+    "Difficulty": "Hard",
+    "SongScore": "99.81",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "216",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo 2000"
+  },
+  {
+    "Title": "KISS ME (KCP REMIX)",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "243",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo 2000"
+  },
+  {
+    "Title": "Let the beat hit em! (BM IIDX version)",
+    "Difficulty": "Hard",
+    "SongScore": "99.45",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "180",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo 2000"
+  },
+  {
+    "Title": "SKY HIGH",
+    "Difficulty": "Hard",
+    "SongScore": "98.77",
+    "Award": "OneW3",
+    "Judgements": [
+      "231",
+      "12",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo 2000"
+  },
+  {
+    "Title": "STRUT YOUR FUNKY STUFF",
+    "Difficulty": "Hard",
+    "SongScore": "99.68",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "249",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo 2000"
+  },
+  {
+    "Title": "TEMPLE OF LOVE",
+    "Difficulty": "Hard",
+    "SongScore": "99.22",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "247",
+      "10",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo 2000"
+  },
+  {
+    "Title": "TOGETHER \u0026 FOREVER",
+    "Difficulty": "Hard",
+    "SongScore": "99.66",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "290",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo 2000"
+  },
+  {
+    "Title": "TYPICAL TROPICAL",
+    "Difficulty": "Hard",
+    "SongScore": "97.75",
+    "Award": "",
+    "Judgements": [
+      "230",
+      "10",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo 2000"
+  },
+  {
+    "Title": "CLUB TROPICANA",
+    "Difficulty": "Hard",
+    "SongScore": "99.76",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "248",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo Bass"
+  },
+  {
+    "Title": "DON\u0027T CLOCK ME",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "206",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo Bass"
+  },
+  {
+    "Title": "FREAKY",
+    "Difficulty": "Hard",
+    "SongScore": "99.35",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "240",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo Bass"
+  },
+  {
+    "Title": "GET OFF",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "286",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo Bass"
+  },
+  {
+    "Title": "GET UP\u0027N MOVE",
+    "Difficulty": "Hard",
+    "SongScore": "99.42",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "236",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo Bass"
+  },
+  {
+    "Title": "I\u0027M ALIVE",
+    "Difficulty": "Hard",
+    "SongScore": "97.45",
+    "Award": "",
+    "Judgements": [
+      "208",
+      "11",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo Bass"
+  },
+  {
+    "Title": "KUNG FU FIGHTING (MIAMI BOOTY MIX)",
+    "Difficulty": "Hard",
+    "SongScore": "99.03",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "216",
+      "11",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo Bass"
+  },
+  {
+    "Title": "LOVE MACHINE",
+    "Difficulty": "Hard",
+    "SongScore": "98.59",
+    "Award": "",
+    "Judgements": [
+      "268",
+      "2",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo Bass"
+  },
+  {
+    "Title": "MY BABY MAMA",
+    "Difficulty": "Hard",
+    "SongScore": "98.96",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "239",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo Bass"
+  },
+  {
+    "Title": "SAMBA DE JANEIRO",
+    "Difficulty": "Hard",
+    "SongScore": "99.38",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "253",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo Bass"
+  },
+  {
+    "Title": "THAT\u0027S THE WAY \u002798",
+    "Difficulty": "Hard",
+    "SongScore": "99.40",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "228",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo Bass"
+  },
+  {
+    "Title": "TOGETHER \u0026 FOREVER",
+    "Difficulty": "Hard",
+    "SongScore": "97.99",
+    "Award": "",
+    "Judgements": [
+      "249",
+      "9",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Solo Bass"
+  },
+  {
+    "Title": "Beautiful Life",
+    "Difficulty": "Hard",
+    "SongScore": "98.96",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "217",
+      "12",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "2",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution Supernova"
+  },
+  {
+    "Title": "dazzle",
+    "Difficulty": "Hard",
+    "SongScore": "99.77",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "247",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "18",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dance Dance Revolution X"
+  },
+  {
+    "Title": "Beautiful Man",
+    "Difficulty": "Hard",
+    "SongScore": "98.19",
+    "Award": "",
+    "Judgements": [
+      "356",
+      "21",
+      "1",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "8",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreak\u0027s Originals wip"
+  },
+  {
+    "Title": "Beautiful Man",
+    "Difficulty": "Challenge",
+    "SongScore": "98.19",
+    "Award": "",
+    "Judgements": [
+      "510",
+      "37",
+      "1",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "15",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreak\u0027s Originals wip"
+  },
+  {
+    "Title": "Blue",
+    "Difficulty": "Challenge",
+    "SongScore": "62.01",
+    "Award": "",
+    "Judgements": [
+      "331",
+      "22",
+      "7",
+      "0",
+      "1",
+      "40",
+      "0",
+      "0",
+      "41",
+      "1",
+      "2"
+    ],
+    "SongGroup": "Dancefreak\u0027s Originals wip"
+  },
+  {
+    "Title": "ET (Dave Aude Edit)",
+    "Difficulty": "Challenge",
+    "SongScore": "98.38",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "383",
+      "34",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "76",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreak\u0027s Originals wip"
+  },
+  {
+    "Title": "Kissy Kissy",
+    "Difficulty": "Hard",
+    "SongScore": "98.91",
+    "Award": "OneW3",
+    "Judgements": [
+      "329",
+      "16",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "4",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreak\u0027s Originals wip"
+  },
+  {
+    "Title": "Main Event",
+    "Difficulty": "Hard",
+    "SongScore": "99.62",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "345",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "24",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreak\u0027s Originals wip"
+  },
+  {
+    "Title": "Saturday Night",
+    "Difficulty": "Hard",
+    "SongScore": "58.18",
+    "Award": "",
+    "Judgements": [
+      "285",
+      "9",
+      "3",
+      "0",
+      "0",
+      "41",
+      "0",
+      "0",
+      "4",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreak\u0027s Originals wip"
+  },
+  {
+    "Title": "Lucky",
+    "Difficulty": "Challenge",
+    "SongScore": "97.50",
+    "Award": "",
+    "Judgements": [
+      "306",
+      "23",
+      "1",
+      "0",
+      "0",
+      "0",
+      "2",
+      "0",
+      "92",
+      "3",
+      "0"
+    ],
+    "SongGroup": "Dancefreaks Originals (Unconverted for AC)"
+  },
+  {
+    "Title": "Murder on the dancefloor",
+    "Difficulty": "Hard",
+    "SongScore": "99.65",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "336",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "2",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreaks Originals (Unconverted for AC)"
+  },
+  {
+    "Title": "Stream Of Tears (Remix)",
+    "Difficulty": "Challenge",
+    "SongScore": "99.75",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "404",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "6",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreaks Originals (Unconverted for AC)"
+  },
+  {
+    "Title": "Your Disco Needs You (Almighty Radio Edit)",
+    "Difficulty": "Hard",
+    "SongScore": "98.64",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "283",
+      "16",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "24",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreaks Originals (Unconverted for AC)"
+  },
+  {
+    "Title": "Do The Thing",
+    "Difficulty": "Challenge",
+    "SongScore": "99.13",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "431",
+      "20",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "14",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreaks Originals 2022"
+  },
+  {
+    "Title": "Karma Town",
+    "Difficulty": "Hard",
+    "SongScore": "99.54",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "245",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "10",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreaks Originals 2022"
+  },
+  {
+    "Title": "Ride On Time",
+    "Difficulty": "Challenge",
+    "SongScore": "98.91",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "418",
+      "25",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "17",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreaks Originals 2022"
+  },
+  {
+    "Title": "Run Away With Me",
+    "Difficulty": "Easy",
+    "SongScore": "98.44",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "136",
+      "7",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "22",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreaks Originals 2022"
+  },
+  {
+    "Title": "This Is How We Do It",
+    "Difficulty": "Hard",
+    "SongScore": "54.76",
+    "Award": "",
+    "Judgements": [
+      "250",
+      "11",
+      "1",
+      "0",
+      "1",
+      "39",
+      "0",
+      "0",
+      "7",
+      "0",
+      "4"
+    ],
+    "SongGroup": "Dancefreaks Originals 2022"
+  },
+  {
+    "Title": "This Is The World We Live In",
+    "Difficulty": "Hard",
+    "SongScore": "99.18",
+    "Award": "",
+    "Judgements": [
+      "314",
+      "9",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "19",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancefreaks Originals 2022"
+  },
+  {
+    "Title": "5, 6, 7, 8",
+    "Difficulty": "Hard",
+    "SongScore": "99.42",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "272",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Euromix 2"
+  },
+  {
+    "Title": "(Mucho Mambo) Sway",
+    "Difficulty": "Hard",
+    "SongScore": "99.68",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "247",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Euromix"
+  },
+  {
+    "Title": "I Will Survive",
+    "Difficulty": "Hard",
+    "SongScore": "97.37",
+    "Award": "OneW3",
+    "Judgements": [
+      "154",
+      "20",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Euromix"
+  },
+  {
+    "Title": "Magic Alec Presents Resonance",
+    "Difficulty": "Hard",
+    "SongScore": "99.04",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "280",
+      "14",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Euromix"
+  },
+  {
+    "Title": "More Than This \u002799",
+    "Difficulty": "Hard",
+    "SongScore": "98.98",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "188",
+      "10",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Euromix"
+  },
+  {
+    "Title": "Rushing",
+    "Difficulty": "Hard",
+    "SongScore": "99.68",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "251",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Euromix"
+  },
+  {
+    "Title": "So Good",
+    "Difficulty": "Hard",
+    "SongScore": "98.49",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "184",
+      "15",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Euromix"
+  },
+  {
+    "Title": "Video Killed The Radio Star",
+    "Difficulty": "Hard",
+    "SongScore": "94.50",
+    "Award": "FullComboW3",
+    "Judgements": [
+      "171",
+      "16",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Euromix"
+  },
+  {
+    "Title": "Word Up",
+    "Difficulty": "Hard",
+    "SongScore": "99.41",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "265",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Euromix"
+  },
+  {
+    "Title": "All That She Wants",
+    "Difficulty": "Hard",
+    "SongScore": "98.96",
+    "Award": "OneW3",
+    "Judgements": [
+      "170",
+      "7",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "15",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Fever"
+  },
+  {
+    "Title": "Come On Eileen",
+    "Difficulty": "Hard",
+    "SongScore": "97.82",
+    "Award": "OneW3",
+    "Judgements": [
+      "160",
+      "17",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "6",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Fever"
+  },
+  {
+    "Title": "Virtuality",
+    "Difficulty": "Hard",
+    "SongScore": "99.23",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "168",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "33",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Fever"
+  },
+  {
+    "Title": "HEAVEN AND EARTH",
+    "Difficulty": "Hard",
+    "SongScore": "98.83",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "277",
+      "19",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "29",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Fusion"
+  },
+  {
+    "Title": "Chain Reaction",
+    "Difficulty": "Hard",
+    "SongScore": "99.50",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "205",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "32",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Max"
+  },
+  {
+    "Title": "Friday",
+    "Difficulty": "Hard",
+    "SongScore": "97.12",
+    "Award": "",
+    "Judgements": [
+      "239",
+      "20",
+      "3",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "15",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Max"
+  },
+  {
+    "Title": "Goody Two Shoes",
+    "Difficulty": "Challenge",
+    "SongScore": "98.04",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "368",
+      "32",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "17",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Max"
+  },
+  {
+    "Title": "Hip To Hip",
+    "Difficulty": "Hard",
+    "SongScore": "99.34",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "234",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "4",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Max"
+  },
+  {
+    "Title": "Mixed Up World",
+    "Difficulty": "Hard",
+    "SongScore": "99.64",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "207",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "17",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Max"
+  },
+  {
+    "Title": "A Little Less Conversation (Elvis vs JXL)",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "163",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "31",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Megamix"
+  },
+  {
+    "Title": "Love At First Sight",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "170",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "31",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Megamix"
+  },
+  {
+    "Title": "One Step Closer",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "151",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "31",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Megamix"
+  },
+  {
+    "Title": "Shake UR Body",
+    "Difficulty": "Hard",
+    "SongScore": "99.36",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "200",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "44",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Megamix"
+  },
+  {
+    "Title": "Stealin\u0027 Beats",
+    "Difficulty": "Hard",
+    "SongScore": "98.80",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "150",
+      "11",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "23",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Megamix"
+  },
+  {
+    "Title": "The Lovecats",
+    "Difficulty": "Hard",
+    "SongScore": "98.58",
+    "Award": "",
+    "Judgements": [
+      "204",
+      "7",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "43",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Megamix"
+  },
+  {
+    "Title": "When You Look At Me",
+    "Difficulty": "Hard",
+    "SongScore": "98.66",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "119",
+      "10",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "21",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Megamix"
+  },
+  {
+    "Title": "CAN\u0027T GET YOU OUT OF MY HEAD",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "207",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Party Edition"
+  },
+  {
+    "Title": "Don\u0027t Stop Movin\u0027",
+    "Difficulty": "Hard",
+    "SongScore": "99.77",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "175",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Party Edition"
+  },
+  {
+    "Title": "Biology",
+    "Difficulty": "Hard",
+    "SongScore": "99.38",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "271",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "11",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Supernova"
+  },
+  {
+    "Title": "Jacques Your Body (Make Me Sweat)",
+    "Difficulty": "Hard",
+    "SongScore": "99.52",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "312",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "18",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Dancing Stage Supernova"
+  },
+  {
+    "Title": "(Round 1 - 07) Kirby Smash",
+    "Difficulty": "Medium",
+    "SongScore": "99.78",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "345",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "27",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ECFA 2019 - Lower"
+  },
+  {
+    "Title": "silikon (SX 11)",
+    "Difficulty": "Challenge",
+    "SongScore": "91.00",
+    "Award": "",
+    "Judgements": [
+      "611",
+      "144",
+      "39",
+      "0",
+      "0",
+      "7",
+      "0",
+      "0",
+      "44",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ECFA 2021 (11s DLC)"
+  },
+  {
+    "Title": "Live Forever",
+    "Difficulty": "Hard",
+    "SongScore": "96.79",
+    "Award": "",
+    "Judgements": [
+      "816",
+      "59",
+      "2",
+      "1",
+      "7",
+      "0",
+      "0",
+      "0",
+      "31",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Euphoreyja"
+  },
+  {
+    "Title": "Better The Devil",
+    "Difficulty": "Hard",
+    "SongScore": "99.60",
+    "Award": "OneW3",
+    "Judgements": [
+      "904",
+      "15",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Fitness"
+  },
+  {
+    "Title": "Cover Girl",
+    "Difficulty": "Hard",
+    "SongScore": "98.75",
+    "Award": "",
+    "Judgements": [
+      "591",
+      "34",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Fitness"
+  },
+  {
+    "Title": "Ella Elle L\u0027a",
+    "Difficulty": "Hard",
+    "SongScore": "99.71",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "559",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Fitness"
+  },
+  {
+    "Title": "Groovejet",
+    "Difficulty": "Hard",
+    "SongScore": "99.62",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "844",
+      "16",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Fitness"
+  },
+  {
+    "Title": "Hard Times",
+    "Difficulty": "Hard",
+    "SongScore": "98.90",
+    "Award": "",
+    "Judgements": [
+      "805",
+      "35",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Fitness"
+  },
+  {
+    "Title": "[07] 110",
+    "Difficulty": "Medium",
+    "SongScore": "99.11",
+    "Award": "OneW3",
+    "Judgements": [
+      "290",
+      "12",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "35",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[07] Advantage",
+    "Difficulty": "Medium",
+    "SongScore": "99.38",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "302",
+      "10",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "14",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[07] BOY",
+    "Difficulty": "Medium",
+    "SongScore": "98.63",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "300",
+      "27",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "68",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[07] Crimewave",
+    "Difficulty": "Hard",
+    "SongScore": "99.53",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "296",
+      "9",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "83",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[07] Disco Pop",
+    "Difficulty": "Hard",
+    "SongScore": "99.85",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "399",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "11",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[07] Evil Inside (VIP)",
+    "Difficulty": "Medium",
+    "SongScore": "98.99",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "303",
+      "18",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "36",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[07] STRICTLY BUSINESS",
+    "Difficulty": "Medium",
+    "SongScore": "99.36",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "302",
+      "10",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "2",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[08] Do It!",
+    "Difficulty": "Hard",
+    "SongScore": "99.25",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "479",
+      "15",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "65",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[08] LIVING IN AMERICA",
+    "Difficulty": "Medium",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "322",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "48",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[08] Night Drive",
+    "Difficulty": "Hard",
+    "SongScore": "99.20",
+    "Award": "OneW3",
+    "Judgements": [
+      "362",
+      "12",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[09] Applause - (No CMOD)",
+    "Difficulty": "Challenge",
+    "SongScore": "98.87",
+    "Award": "OneW3",
+    "Judgements": [
+      "436",
+      "31",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "134",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[09] Electro World - (No CMOD)",
+    "Difficulty": "Challenge",
+    "SongScore": "99.73",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "584",
+      "11",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "235",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[09] Kiss Me More (Daju Remix)",
+    "Difficulty": "Challenge",
+    "SongScore": "99.27",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "459",
+      "14",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "77",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[09] What is Love",
+    "Difficulty": "Challenge",
+    "SongScore": "99.28",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "453",
+      "21",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "116",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "[09] Yes or Yes",
+    "Difficulty": "Challenge",
+    "SongScore": "99.72",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "449",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "120",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ITL Online 2022"
+  },
+  {
+    "Title": "Bumble Bee",
+    "Difficulty": "Challenge",
+    "SongScore": "99.39",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "383",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "32",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove 2"
+  },
+  {
+    "Title": "July -Euromix-",
+    "Difficulty": "Hard",
+    "SongScore": "99.17",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "340",
+      "9",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "14",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove 2"
+  },
+  {
+    "Title": "Spin Chicken",
+    "Difficulty": "Hard",
+    "SongScore": "98.17",
+    "Award": "",
+    "Judgements": [
+      "200",
+      "5",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "35",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove 2"
+  },
+  {
+    "Title": "Sunshine",
+    "Difficulty": "Hard",
+    "SongScore": "98.72",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "329",
+      "23",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "10",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove 2"
+  },
+  {
+    "Title": "Typical Tropical",
+    "Difficulty": "Hard",
+    "SongScore": "99.31",
+    "Award": "OneW3",
+    "Judgements": [
+      "265",
+      "7",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "19",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove 2"
+  },
+  {
+    "Title": "The Last Kiss",
+    "Difficulty": "Challenge",
+    "SongScore": "99.84",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "295",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "77",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove 3"
+  },
+  {
+    "Title": "Bubble Dancer",
+    "Difficulty": "Hard",
+    "SongScore": "99.87",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "294",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "22",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove new"
+  },
+  {
+    "Title": "Bend Your Mind",
+    "Difficulty": "Hard",
+    "SongScore": "99.53",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "325",
+      "10",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "99",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Bubble Dancer",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "296",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "22",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Changes",
+    "Difficulty": "Hard",
+    "SongScore": "99.88",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "335",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "9",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Crazy",
+    "Difficulty": "Hard",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "388",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "7",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Delirium",
+    "Difficulty": "Hard",
+    "SongScore": "99.30",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "438",
+      "16",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "7",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Disconnected -hyper-",
+    "Difficulty": "Hard",
+    "SongScore": "99.63",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "505",
+      "10",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "29",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Disconnected -mobius-",
+    "Difficulty": "Hard",
+    "SongScore": "99.03",
+    "Award": "OneW3",
+    "Judgements": [
+      "407",
+      "13",
+      "1",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "34",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Disconnected",
+    "Difficulty": "Hard",
+    "SongScore": "99.36",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "449",
+      "15",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "11",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Do U Love Me",
+    "Difficulty": "Challenge",
+    "SongScore": "98.48",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "559",
+      "39",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "31",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Drifting Away",
+    "Difficulty": "Hard",
+    "SongScore": "99.62",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "395",
+      "8",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "18",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Fly Away",
+    "Difficulty": "Hard",
+    "SongScore": "99.77",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "334",
+      "4",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "25",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Hip Hop Jam",
+    "Difficulty": "Hard",
+    "SongScore": "99.38",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "370",
+      "12",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "7",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Kiss Me Red",
+    "Difficulty": "Challenge",
+    "SongScore": "99.76",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "406",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "15",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Land of the Rising Sun",
+    "Difficulty": "Hard",
+    "SongScore": "99.71",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "334",
+      "5",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "6",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Lemmings on the Run",
+    "Difficulty": "Challenge",
+    "SongScore": "98.24",
+    "Award": "",
+    "Judgements": [
+      "462",
+      "10",
+      "0",
+      "0",
+      "0",
+      "1",
+      "3",
+      "0",
+      "40",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Mellow",
+    "Difficulty": "Hard",
+    "SongScore": "99.67",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "398",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "22",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "My Favourite Game",
+    "Difficulty": "Hard",
+    "SongScore": "99.16",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "283",
+      "14",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "39",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "My Favourite Game",
+    "Difficulty": "Challenge",
+    "SongScore": "97.94",
+    "Award": "",
+    "Judgements": [
+      "533",
+      "32",
+      "0",
+      "0",
+      "0",
+      "1",
+      "2",
+      "0",
+      "27",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Queen of Light",
+    "Difficulty": "Hard",
+    "SongScore": "98.00",
+    "Award": "",
+    "Judgements": [
+      "348",
+      "22",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "20",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Queen of Light",
+    "Difficulty": "Challenge",
+    "SongScore": "99.43",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "359",
+      "15",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "155",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "ROM-eo \u0026 Juli8",
+    "Difficulty": "Challenge",
+    "SongScore": "99.88",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "456",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "41",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Torn",
+    "Difficulty": "Hard",
+    "SongScore": "99.22",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "337",
+      "8",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "14",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Why Me",
+    "Difficulty": "Hard",
+    "SongScore": "99.86",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "285",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "12",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "Xuxa",
+    "Difficulty": "Challenge",
+    "SongScore": "96.23",
+    "Award": "",
+    "Judgements": [
+      "588",
+      "70",
+      "2",
+      "1",
+      "3",
+      "1",
+      "0",
+      "0",
+      "31",
+      "0",
+      "0"
+    ],
+    "SongGroup": "In The Groove"
+  },
+  {
+    "Title": "post_x",
+    "Difficulty": "Challenge",
+    "SongScore": "86.98",
+    "Award": "",
+    "Judgements": [
+      "295",
+      "102",
+      "33",
+      "0",
+      "0",
+      "10",
+      "0",
+      "0",
+      "130",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Japanese Collaboration Mix"
+  },
+  {
+    "Title": "#SELFIE",
+    "Difficulty": "Challenge",
+    "SongScore": "97.24",
+    "Award": "",
+    "Judgements": [
+      "484",
+      "42",
+      "3",
+      "0",
+      "0",
+      "1",
+      "2",
+      "0",
+      "51",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mudkyp 7th Gen"
+  },
+  {
+    "Title": "Hot Couture",
+    "Difficulty": "Challenge",
+    "SongScore": "99.48",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "477",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "18",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mudkyp 7th Gen"
+  },
+  {
+    "Title": "Peanut Butter",
+    "Difficulty": "Challenge",
+    "SongScore": "98.92",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "631",
+      "40",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "71",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mudkyp 7th Gen"
+  },
+  {
+    "Title": "I Am The Best",
+    "Difficulty": "Challenge",
+    "SongScore": "99.73",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "422",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "21",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mudkyp Korea"
+  },
+  {
+    "Title": "First Day",
+    "Difficulty": "Challenge",
+    "SongScore": "99.63",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "371",
+      "7",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "3",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mungyodance 2"
+  },
+  {
+    "Title": "Get It Right",
+    "Difficulty": "Hard",
+    "SongScore": "97.82",
+    "Award": "",
+    "Judgements": [
+      "390",
+      "17",
+      "2",
+      "0",
+      "1",
+      "0",
+      "2",
+      "0",
+      "13",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mungyodance 2"
+  },
+  {
+    "Title": "Hardstyle Disco",
+    "Difficulty": "Challenge",
+    "SongScore": "99.34",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "378",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "4",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mungyodance 2"
+  },
+  {
+    "Title": "Lick My Plump Fox Nuts",
+    "Difficulty": "Hard",
+    "SongScore": "97.45",
+    "Award": "",
+    "Judgements": [
+      "428",
+      "24",
+      "3",
+      "3",
+      "0",
+      "0",
+      "2",
+      "0",
+      "13",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mungyodance 2"
+  },
+  {
+    "Title": "Really Love You",
+    "Difficulty": "Challenge",
+    "SongScore": "98.89",
+    "Award": "",
+    "Judgements": [
+      "531",
+      "26",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mungyodance 2"
+  },
+  {
+    "Title": "Want You Bad",
+    "Difficulty": "Challenge",
+    "SongScore": "92.05",
+    "Award": "",
+    "Judgements": [
+      "457",
+      "59",
+      "5",
+      "2",
+      "1",
+      "7",
+      "0",
+      "0",
+      "8",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mungyodance 2"
+  },
+  {
+    "Title": "DVNO",
+    "Difficulty": "Challenge",
+    "SongScore": "99.08",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "322",
+      "19",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "72",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mungyodance 3"
+  },
+  {
+    "Title": "Girlfriend",
+    "Difficulty": "Hard",
+    "SongScore": "97.90",
+    "Award": "",
+    "Judgements": [
+      "330",
+      "28",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "13",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mungyodance 3"
+  },
+  {
+    "Title": "Pictures",
+    "Difficulty": "Challenge",
+    "SongScore": "99.02",
+    "Award": "OneW3",
+    "Judgements": [
+      "272",
+      "14",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "63",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mungyodance 3"
+  },
+  {
+    "Title": "Rock Me Amadeus",
+    "Difficulty": "Challenge",
+    "SongScore": "99.36",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "393",
+      "13",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "2",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mungyodance 3"
+  },
+  {
+    "Title": "Shining Stars",
+    "Difficulty": "Challenge",
+    "SongScore": "84.70",
+    "Award": "",
+    "Judgements": [
+      "367",
+      "43",
+      "2",
+      "0",
+      "0",
+      "30",
+      "0",
+      "0",
+      "2",
+      "0",
+      "2"
+    ],
+    "SongGroup": "Mungyodance 3"
+  },
+  {
+    "Title": "I\u0027m The Supervisor",
+    "Difficulty": "Challenge",
+    "SongScore": "99.10",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "489",
+      "14",
+      "3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "6",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mungyodance"
+  },
+  {
+    "Title": "Puttin\u0027 on the Ritz",
+    "Difficulty": "Challenge",
+    "SongScore": "99.17",
+    "Award": "OneW3",
+    "Judgements": [
+      "342",
+      "12",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "10",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Mungyodance"
+  },
+  {
+    "Title": "Boys Will Be Boys",
+    "Difficulty": "Challenge",
+    "SongScore": "78.58",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "56",
+      "19",
+      "6",
+      "0",
+      "0",
+      "0",
+      "9",
+      "0",
+      "4",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Originals -Kyle-"
+  },
+  {
+    "Title": "Cheese",
+    "Difficulty": "Hard",
+    "SongScore": "96.19",
+    "Award": "OneW3",
+    "Judgements": [
+      "28",
+      "5",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "8",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Originals -Kyle-"
+  },
+  {
+    "Title": "I Don\u0027t Feel Like Dancing",
+    "Difficulty": "Challenge",
+    "SongScore": "99.12",
+    "Award": "FullComboW2",
+    "Judgements": [
+      "354",
+      "17",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "19",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Originals -Kyle-"
+  },
+  {
+    "Title": "La Duena Del Swing",
+    "Difficulty": "Hard",
+    "SongScore": "97.61",
+    "Award": "SingleDigitW3",
+    "Judgements": [
+      "470",
+      "45",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "7",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Originals -Kyle-"
+  },
+  {
+    "Title": "Spaceman -Short Edit-",
+    "Difficulty": "Hard",
+    "SongScore": "99.85",
+    "Award": "SingleDigitW2",
+    "Judgements": [
+      "264",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "6",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Originals -Kyle-"
+  },
+  {
+    "Title": "Sticky Tricky and Bang",
+    "Difficulty": "Hard",
+    "SongScore": "99.12",
+    "Award": "OneW3",
+    "Judgements": [
+      "727",
+      "32",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "36",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Originals -Kyle-"
+  },
+  {
+    "Title": "ARROW VORTEX 0.009",
+    "Difficulty": "Challenge",
+    "SongScore": "100.00",
+    "Award": "FullComboW1",
+    "Judgements": [
+      "55",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "SongGroup": "Sync"
+  },
+  {
+    "Title": "Something Going on",
+    "Difficulty": "Hard",
+    "SongScore": "98.12",
+    "Award": "",
+    "Judgements": [
+      "262",
+      "9",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "5",
+      "0",
+      "0"
+    ],
+    "SongGroup": "ZZZ Classic Kris"
+  }
+]

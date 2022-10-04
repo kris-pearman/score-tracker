@@ -1,0 +1,33 @@
+<div class="grid grid-cols-4 gap-6">
+  <div *ngFor="let group of groupArray">
+    <button
+      class="min-w-auto bg-red-300 p-2 rounded-xl hover:bg-red-500 text-white font-semibold transition-transform hover:-translate-y-2 ease-in-out"
+      (click)="viewSongs(group)"
+    >
+      {{ group }}
+    </button>
+    <ng-container *ngIf="selectedGroup && selectedGroup === group">
+      <button
+        *ngFor="let song of songGroupArray"
+        class="grid min-w-full grid-cols-1 my-2 bg-green-300 p-2 rounded-xl hover:bg-green-500 text-white font-semibold transition-transform hover:-translate-y-2 ease-in-out"
+        (click)="viewStats(song)"
+      >
+        {{ song }}
+        <ng-container *ngIf="selectedSong && selectedSong === song"> 
+          <div *ngFor="let score of selectedSongArray">
+            <div *ngIf="score.SongGroup === selectedGroup">
+              {{score.Difficulty}}
+              <br>
+              {{score.SongScore}}
+              <div *ngFor="let judgements of score.Judgements">
+                {{judgements}}
+              </div>
+            </div>
+          </div>
+
+        </ng-container>
+
+      </button>
+    </ng-container>
+  </div>
+</div>

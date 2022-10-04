@@ -1,0 +1,47 @@
+<table class="table-fixed bg-gray-500 w-full">
+    <thead>
+      <th>Song Group</th>
+      <th>Title</th>
+      <th>Difficulty</th>
+      <th>Song Score</th>
+      <th>Award</th>
+    </thead>
+    <tbody>
+      <ng-container *ngFor="let outputScore of scores">
+      <tr
+        [ngClass]="{
+          'bg-green-100': outputScore.Difficulty === 'Hard',
+          'bg-red-100': outputScore.Difficulty === 'Medium',
+          'bg-blue-100': outputScore.Difficulty === 'Challenge',
+          'bg-yellow-100': outputScore.Difficulty === 'Easy'
+        }"
+        (click)="openScore(outputScore)"
+      >
+        <td>
+          {{ outputScore.SongGroup }}
+        </td>
+        <td>
+          {{ outputScore.Title }}
+        </td>
+        <td
+          [ngClass]="{
+            'text-green-800 bg-green-100': outputScore.Difficulty === 'Hard'
+          }"
+        >
+          {{ outputScore.Difficulty }}
+        </td>
+        <td>
+          {{ outputScore.SongScore }}
+        </td>
+
+        <td>
+          {{ outputScore.Award }}
+        </td>
+      </tr>
+      <div *ngIf="selectedScore && selectedScore.Title === outputScore.Title && selectedScore.SongGroup === outputScore.SongGroup && selectedScore.Difficulty === outputScore.Difficulty">
+        <h2>{{selectedScore.Title}}</h2>
+        <p *ngFor="let judgement of outputScore.Judgements">{{judgement}}</p>
+      </div>
+      </ng-container>
+    </tbody>
+  </table>
