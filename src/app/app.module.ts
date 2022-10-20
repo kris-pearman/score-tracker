@@ -6,6 +6,8 @@ import { GroupSelectComponent } from './group-select/group-select.component';
 import { BarChartComponent } from './bar-chart/bar-chart.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { ScoreListComponent } from './score-list/score-list.component';
+import { ContentContainerComponent } from './content-container/content-container.component';
+import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
   declarations: [
@@ -13,10 +15,12 @@ import { ScoreListComponent } from './score-list/score-list.component';
     GroupSelectComponent,
     BarChartComponent,
     NavBarComponent,
-    ScoreListComponent
+    ScoreListComponent,
+    ContentContainerComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

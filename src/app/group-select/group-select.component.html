@@ -1,4 +1,4 @@
-<div class="grid grid-cols-4 gap-6">
+<!-- <div class="grid grid-cols-4 gap-6">
   <div *ngFor="let group of groupArray">
     <button
       class="min-w-auto bg-red-300 p-2 rounded-xl hover:bg-red-500 text-white font-semibold transition-transform hover:-translate-y-2 ease-in-out"
@@ -13,21 +13,32 @@
         (click)="viewStats(song)"
       >
         {{ song }}
-        <ng-container *ngIf="selectedSong && selectedSong === song"> 
+        <ng-container *ngIf="selectedSong && selectedSong === song">
           <div *ngFor="let score of selectedSongArray">
             <div *ngIf="score.SongGroup === selectedGroup">
-              {{score.Difficulty}}
-              <br>
-              {{score.SongScore}}
+              {{ score.Difficulty }}
+              <br />
+              {{ score.SongScore }}
               <div *ngFor="let judgements of score.Judgements">
-                {{judgements}}
+                {{ judgements }}
               </div>
             </div>
           </div>
-
         </ng-container>
-
       </button>
     </ng-container>
+  </div>
+</div> -->
+
+<div class="w-full h-5">
+  <div class="flex-col justify-center w-full">
+    <div
+      class="group-container flex content-center justify-center mb-4 h-8"
+      *ngFor="let group of groupArray"
+    >
+      <button class="w-96 bg-red-300 justify-center text-left pl-8">
+        {{ group }}
+      </button>
+    </div>
   </div>
 </div>
